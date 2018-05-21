@@ -1,2 +1,3 @@
 # thumbnails
-Thumbnail generation experiments
+
+Experiments in thumbnail generation with GraphicsMagick.

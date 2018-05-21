@@ -1,0 +1,23 @@
+{
+  "name": "thumbnails",
+  "version": "1.0.0",
+  "description": "Experiments in thumbnail generation with GraphicsMagick.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtoal/thumbnails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtoal/thumbnails/issues"
+  },
+  "homepage": "https://github.com/rtoal/thumbnails#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "gm": "^1.23.1"
+  }
+}
